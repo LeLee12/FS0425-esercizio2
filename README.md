@@ -1,1 +1,1 @@
-# FS0425-Lezione2
+# FS0425-Esercizio2
